@@ -13,12 +13,11 @@ public class Tarea {
      *
      * @param id identificador único de la tarea
      * @param descripcion detalles o texto explicativo de la tarea
-     * @param completada estado inicial de la tarea ({@code true} si está terminada)
      */
-    public Tarea(int id, String descripcion, boolean completada) {
+    public Tarea(int id, String descripcion) {
         this.id = id;
         this.descripcion = descripcion;
-        this.completada = completada;
+        this.completada = false;
     }
 
     // Getters / Setters
