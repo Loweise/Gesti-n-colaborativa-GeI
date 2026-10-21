@@ -54,6 +54,6 @@ Una aplicación de consola en Java para la administración de tareas personales.
 
 * Martin Noe Cornejo Silva
 
-* 2
+* Luis Angel Zahid Pérez Luzania
 
-* 3
+* Angel Adrian Sanchez Navarro
